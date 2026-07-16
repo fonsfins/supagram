@@ -1,6 +1,0 @@
-{
-  "name": "Telegram Clone",
-  "description": "A lightweight Telegram-like web application with Supabase backend, supporting direct messages, groups, and compressed media uploads.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
